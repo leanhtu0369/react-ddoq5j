@@ -1,0 +1,25 @@
+{
+  "name": "aaekfo--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "@progress/kendo-react-layout": "4.13.0",
+    "@progress/kendo-licensing": "1.2.2",
+    "@progress/kendo-react-intl": "4.13.0",
+    "@progress/kendo-react-animation": "4.13.0",
+    "@progress/kendo-react-progressbars": "4.13.0",
+    "@progress/kendo-theme-bootstrap": "^4.43.0",
+    "prop-types": "15.8.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
